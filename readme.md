@@ -1,6 +1,6 @@
-# Open Source Dictonary 📙
+# Open Source Dictionary 📙
     
-Open Source Dictonary is a open source website which is a dictonary that will help you understand the terms of Open Source. This project is created under Girlscript Winter of Contributing 2021.
+Open Source Dictionary is a open source website which is a dicitonary that will help you understand the terms of Open Source. This project is created under Girlscript Winter of Contributing 2021.
 <br>
 
 <p align="center">
@@ -17,6 +17,6 @@ Open Source Dictonary is a open source website which is a dictonary that will he
 
 ## Dictonary:
 
-- Click the link below to open the dictonary:
+- Click the link below to open the dictionary:
 
-  ### [Let's Go](https://mayankkuthar.github.io/Open-Source-Dictonary/)
+  ### [Let's Go](https://mayankkuthar.github.io/Open-Source-Dictionary/)
